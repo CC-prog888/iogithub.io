@@ -1,4 +1,9 @@
-<title>咖啡烘焙度解析｜淺焙、深焙差異？風味、酸苦與沖煮一次搞懂</title>
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>咖啡烘焙度解析｜淺焙、深焙差異？</title>
 <style>
   /* ====== 高級咖啡廳風格 CSS 魔法 ====== */
   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700&family=Noto+Serif+TC:wght@500;700&display=swap');
